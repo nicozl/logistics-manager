@@ -1,0 +1,8 @@
+com\zl\service\IRoleService.class
+com\zl\service\impl\BasicServiceImpl.class
+com\zl\service\ICustomerService.class
+com\zl\service\impl\CustomerServiceImpl.class
+com\zl\service\IBasicService.class
+com\zl\service\IUserService.class
+com\zl\service\impl\RoleServiceImpl.class
+com\zl\service\impl\UserServiceImpl.class

@@ -1,0 +1,7 @@
+com\zl\mapper\MenuMapper.class
+com\zl\mapper\CustomerMapper.class
+com\zl\mapper\OrderDetailMapper.class
+com\zl\mapper\BasicDataMapper.class
+com\zl\mapper\UserMapper.class
+com\zl\mapper\OrderMapper.class
+com\zl\mapper\RoleMapper.class
